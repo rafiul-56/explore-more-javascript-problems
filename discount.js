@@ -36,5 +36,5 @@ function ticketPrice(ticketQuantity){
 }
 
 
-const price = ticketPrice(120);
+const price = ticketPrice(20);
 console.log('price: ', price);
